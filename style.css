@@ -2,7 +2,7 @@
 
 * {
     font-family: 'Roboto', sans-serif;
-    font-size: 16px;
+    font-size: 12px;
 }
 
 body {
@@ -168,7 +168,7 @@ hr {
 
 .footer-container {
     color: grey;
-    margin: 6rem 0;
+    margin: 2rem 0;
 }
 
 .insta-other-page a,
@@ -190,7 +190,7 @@ hr {
 .rapid-img {
     position: absolute;
     top: 189px;
-    left: 752px;
+    left: 543px;
     width: 260px;
     height: 457px;
 }
